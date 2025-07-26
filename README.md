@@ -1,12 +1,59 @@
-# React + Vite
+# Frontend Mentor - Product Preview Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my solution to the [Product Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).  
+It was built using **React**, **Vite**, and **Tailwind CSS**. The goal was to create a responsive product card with optimized layout for both mobile and desktop.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Site
 
-## Expanding the ESLint configuration
+👉 [Live preview here](https://umutyavyz.github.io/frontendmentor-product-preview-card/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+### 💻 Desktop View  
+<img src="./assets/images/screenshot1.jpg" alt="Desktop Screenshot" width="100%">
+
+### 📱 Mobile View  
+<img src="./assets/images/screenshot2.jpg" alt="Mobile Screenshot" width="100%">
+
+---
+
+## 🛠️ Technologies Used
+
+- React (with Vite)
+- Tailwind CSS
+- HTML5 & JSX
+- Git & GitHub
+- [Frontend Mentor](https://www.frontendmentor.io)
+
+---
+
+## 💡 What I Learned
+
+- Using `<picture>` and `srcSet` for responsive images
+- Customizing components with Tailwind utility classes
+- Structuring components and assets in a small project
+- Adapting designs for mobile-first layout
+
+---
+
+## 🧩 Useful Resources
+
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+
+---
+
+## ✍️ Author
+
+- GitHub: [@umutyavyz](https://github.com/umutyavyz)
+- Frontend Mentor: [@umutyavyz](https://www.frontendmentor.io/profile/umutyavyz)
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
