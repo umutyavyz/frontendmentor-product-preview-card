@@ -14,10 +14,10 @@ It was built using **React**, **Vite**, and **Tailwind CSS**. The goal was to cr
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-<img src="./assets/images/screenshot1.png" alt="Desktop Screenshot" width="100%">
+<img src="src/assets/images/screenshot1.png" alt="Desktop Screenshot" width="100%">
 
 ### 📱 Mobile View  
-<img src="./assets/images/screenshot2.png" alt="Mobile Screenshot" width="100%">
+<img src="src//assets/images/screenshot2.png" alt="Mobile Screenshot" width="100%">
 
 ---
 
